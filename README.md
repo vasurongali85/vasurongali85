@@ -79,6 +79,10 @@ Building scalable web applications where **clean frontend, robust backend, and s
 
 ---
 
+## 📈 GitHub Activity <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vasurongali85/vasurongali85/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vasurongali85/vasurongali85/output/github-snake.svg" /> <img alt="github contribution snake" src="https://raw.githubusercontent.com/vasurongali85/vasurongali85/output/github-snake.svg" /> </picture>
+
+---
+
 
 ### 🤝 Connect With Me
 
