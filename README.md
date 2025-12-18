@@ -67,11 +67,6 @@ Building scalable web applications where **clean frontend, robust backend, and s
 
 ---
 
-### 📈 GitHub Activity
-
-![GitHub Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
----
 
 ### 🤝 Connect With Me
 
